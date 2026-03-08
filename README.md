@@ -1,6 +1,2 @@
 - 👋 Hi, I’m @JacobSaum
-- 👀 I’m interested in Computing Science
-- 🌱 I’m currently studying computing related subjects at Academy
-- 📚 Currently committed to Msci Computing Science @ RGU
-- 📫 How to reach me: Message Me!
-- ⚡ Fun fact: Not sure 🤔
+- 📚 Msci Computing Science @ RGU
